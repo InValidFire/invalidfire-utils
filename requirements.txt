@@ -1,0 +1,4 @@
+requests~=2.24.0
+setuptools~=50.3.0
+hjson~=3.0.2
+PyYAML~=5.3.1
